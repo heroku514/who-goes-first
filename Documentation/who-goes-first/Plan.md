@@ -11,6 +11,10 @@ Ship a free offline turn marker for kids, families, and seniors. The family choo
 3. Run the full simulator regression on the Release binary for build 1.
 4. Take three native screenshots, then upload that binary and submit it.
 
+## 2026-10-03 later
+
+The plan stayed the same. The store name is The Kid Goes because Who Goes First was already used. Build 1 is Waiting for Review.
+
 ## Why this app
 
 Picture lists, outing plans, dice, dinner answers, household places, tapped sentences, copy-the-line, room hunts, shape pairs, two-person poses, a week of walks, dressing choices, a shared orange, a window tally, a tea tray, a kite string, and a pretend door are already in this pipeline. First-player apps on the store spin a wheel, flip a coin, or run a countdown. This one does not use a clock, a spinner, a camera, or a network. The family chooses who goes, and the phone keeps that choice.
