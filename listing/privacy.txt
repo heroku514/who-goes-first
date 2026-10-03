@@ -1,0 +1,5 @@
+Who Goes First privacy
+
+Who Goes First stores the current turn on this phone. The turn is nobody, the kid, or Grandpa.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, a spinner, or a network connection. Nothing is sent off the phone.
